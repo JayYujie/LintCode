@@ -1,0 +1,5 @@
+D:\Code\TESTPROJECT\LintCode\MoveZero\bin\Debug\MoveZero.exe
+D:\Code\TESTPROJECT\LintCode\MoveZero\bin\Debug\MoveZero.pdb
+D:\Code\TESTPROJECT\LintCode\MoveZero\obj\Debug\MoveZero.exe
+D:\Code\TESTPROJECT\LintCode\MoveZero\obj\Debug\MoveZero.pdb
+D:\Code\TESTPROJECT\LintCode\MoveZero\obj\Debug\MoveZero.csprojResolveAssemblyReference.cache

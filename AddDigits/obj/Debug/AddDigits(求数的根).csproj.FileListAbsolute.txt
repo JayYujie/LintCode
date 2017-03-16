@@ -1,0 +1,5 @@
+D:\Code\TESTPROJECT\LintCode\AddDigits\bin\Debug\AddDigits.exe
+D:\Code\TESTPROJECT\LintCode\AddDigits\bin\Debug\AddDigits.pdb
+D:\Code\TESTPROJECT\LintCode\AddDigits\obj\Debug\AddDigits.exe
+D:\Code\TESTPROJECT\LintCode\AddDigits\obj\Debug\AddDigits.pdb
+D:\Code\TESTPROJECT\LintCode\AddDigits\obj\Debug\AddDigits(求数的根).csprojResolveAssemblyReference.cache

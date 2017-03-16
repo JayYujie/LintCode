@@ -1,0 +1,8 @@
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\bin\Debug\MoveZeroTests.dll
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\bin\Debug\MoveZeroTests.pdb
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\bin\Debug\MoveZero.exe
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\bin\Debug\MoveZero.pdb
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\obj\Debug\MoveZeroTests.csprojResolveAssemblyReference.cache
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\obj\Debug\MoveZeroTests.dll
+D:\Code\TESTPROJECT\LintCode\MoveZeroTests\obj\Debug\MoveZeroTests.pdb

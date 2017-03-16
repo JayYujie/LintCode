@@ -1,0 +1,5 @@
+D:\Code\TESTPROJECT\LintCode\SortArray\bin\Debug\SortArray.exe
+D:\Code\TESTPROJECT\LintCode\SortArray\bin\Debug\SortArray.pdb
+D:\Code\TESTPROJECT\LintCode\SortArray\obj\Debug\SortArray.csprojResolveAssemblyReference.cache
+D:\Code\TESTPROJECT\LintCode\SortArray\obj\Debug\SortArray.exe
+D:\Code\TESTPROJECT\LintCode\SortArray\obj\Debug\SortArray.pdb

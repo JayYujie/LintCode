@@ -1,0 +1,4 @@
+D:\Code\TESTPROJECT\LintCode\Intersection\bin\Debug\Intersection.exe
+D:\Code\TESTPROJECT\LintCode\Intersection\bin\Debug\Intersection.pdb
+D:\Code\TESTPROJECT\LintCode\Intersection\obj\Debug\Intersection.exe
+D:\Code\TESTPROJECT\LintCode\Intersection\obj\Debug\Intersection.pdb

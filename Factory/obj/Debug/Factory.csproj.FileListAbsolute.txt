@@ -1,0 +1,6 @@
+D:\Code\TESTPROJECT\LintCode\Factory\bin\Debug\Factory.exe.config
+D:\Code\TESTPROJECT\LintCode\Factory\bin\Debug\Factory.exe
+D:\Code\TESTPROJECT\LintCode\Factory\bin\Debug\Factory.pdb
+D:\Code\TESTPROJECT\LintCode\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\Code\TESTPROJECT\LintCode\Factory\obj\Debug\Factory.exe
+D:\Code\TESTPROJECT\LintCode\Factory\obj\Debug\Factory.pdb

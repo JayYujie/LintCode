@@ -1,0 +1,6 @@
+D:\Code\TESTPROJECT\LintCode\Singleton\bin\Debug\Singleton.exe.config
+D:\Code\TESTPROJECT\LintCode\Singleton\obj\Debug\Singleton(单例模式).csprojResolveAssemblyReference.cache
+D:\Code\TESTPROJECT\LintCode\Singleton\bin\Debug\Singleton.exe
+D:\Code\TESTPROJECT\LintCode\Singleton\bin\Debug\Singleton.pdb
+D:\Code\TESTPROJECT\LintCode\Singleton\obj\Debug\Singleton.exe
+D:\Code\TESTPROJECT\LintCode\Singleton\obj\Debug\Singleton.pdb
